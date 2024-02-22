@@ -12,7 +12,7 @@ Resumos para armazenar resumos sobre Git e Github do curso Versionamento de Cód
 
 | Aulas | Resumos|
 |-------|--------|
-|Gravando Alterações no Repositório Local | [Resumos]() |
+|Gravando Alterações no Repositório Local | [Resumo]() |
 
 ```
 git init
